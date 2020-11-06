@@ -527,6 +527,7 @@
         }
         .toggle.active:before {
             content: '\f00d';
+            color: #0f0f0f;
         }
         nav {
             padding: 10px 30px;
